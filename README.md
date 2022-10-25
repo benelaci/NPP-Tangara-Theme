@@ -1,6 +1,6 @@
 # Tangara Theme for Notepad++
 
-![Tangara theme for Notepad++](https://i.ibb.co/XxPWvBq/github-full.jpg")
+![Tangara theme for Notepad++](https://i.ibb.co/GkhPmpn/github-full.jpg)
 
 # Description
 Unreasonably thoroughly picked colors to create the neatest color arrangement I can think of.
@@ -15,7 +15,7 @@ more similar to the blue-brested kingfisher.
 
 # Installation
 
-1. **Click** [`HERE`](https	://github.com/benelaci/NPP-Tangara-Theme/archive/refs/heads/main.zip) to download all files in zip.
+1. **Click** [`HERE`](https://github.com/benelaci/NPP-Tangara-Theme/archive/refs/heads/main.zip) to download all files in zip.
 2. Go to **%APPDATA%\Notepad++**.
 3. Open **themes** folder, or create a new folder named **themes** if it doesn't exists.
 4. Copy the **.xml** file in the downloaded zip into the folder.
