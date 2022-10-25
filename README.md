@@ -46,7 +46,7 @@ Only exception is Markdown language, where I find it useful to replace the bulky
 ## Turn off DirectWrite
 
 Make sure DirectWrite is turned off. (*Settings* -> *Misc* -> [ ] *use DirectWrite*)
-![direct write off](https://i.ibb.co/bmGhTDW/github-Direct-Write-off.png)
+![direct write off](https://i.ibb.co/8MhC3P9/github-Direct-Write-off.png)
 
 Primarily because DirectWrite doesn't let the theme use the above mentioned hardcoded font faces for some weird reason. Hopefully this will be fixed in a future version of Notepad++, then I'll probably publish a version of this theme with *Fira Code* font.
 
