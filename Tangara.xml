@@ -4,8 +4,8 @@ Notepad++ Custom Style
 
 	Style name:   Tangara
 	Author:       Laszlo Bene
-	Date:         2022-10-25 (Last update: 2022-10-25)
-	License:      MIT (https://choosealicense.com/licenses/mit/)
+	Date:         2022-10-25 (Last update: 2022-10-27)
+	License:      MIT - https://choosealicense.com/licenses/mit/
 
 	Description:  Unreasonably thoroughly picked colors to create the neatest color arrangement I can think of.
 	              Designed for the sake of colors rather than for optimal ergonomics while keeping a fair degree of usability.
@@ -14,11 +14,16 @@ Notepad++ Custom Style
 	              The name refers to the male swallow tanager (fecsketangara in Hungarian), although the theme is actually even
 	              more similar to the blue-brested kingfisher.
 
-	Languages:    Assembly, Bash, Batch, C, C++, C#, CSS, HTML, Java, JavaScript, Lua, Markdown*, PHP, Python, Ruby, SQL, XML, YAML
+	Languages:    Assembly, Bash, Batch, C, C++, C#, CSS, HTML, INI, Java, JavaScript, Lua, Markdown*, PHP, Python, Ruby, SQL,
+	              XML, YAML
 	              Everything else is usable but not arranged.
-	              If the theme will be fairly popular, I'll add more languages. (Especially on request of course.)
-	              * for Markdown, be sure to get the Markdown UDL for the Tangara theme:
+	              If the theme gets fairly popular, I'll optimize more languages. (Especially on request of course.)
 
+	              * For Markdown, be sure to get the Markdown UDL for the Tangara theme at:
+					  https://github.com/benelaci/NPP-Tangara-Theme
+					  Read the info on the page for instructions about Markdown.
+
+	Web:          https://github.com/benelaci/NPP-Tangara-Theme
 	Contact:      bene7776 at gmail dot com
 -->
 <NotepadPlus>
@@ -312,11 +317,11 @@ Notepad++ Custom Style
             <WordsStyle name="ENTITY" styleID="10" fgColor="BBBBBB" bgColor="1D7184" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="ini" desc="ini file" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="F6F1ED" bgColor="1D7184" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="110C11" bgColor="1D7184" fontName="Roboto Mono SemiBold" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="5FB8C9" bgColor="1D7184" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="SECTION" styleID="2" fgColor="C59178" bgColor="1D7184" fontName="Roboto Mono SemiBold" fontStyle="0" fontSize="" />
-            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="ABDBCE" bgColor="1D7184" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="DEFVAL" styleID="4" fgColor="110C11" bgColor="1D7184" fontName="Roboto Mono Medium" fontStyle="0" fontSize="" />
+            <WordsStyle name="SECTION" styleID="2" fgColor="C9C42E" bgColor="1D7184" fontName="Roboto Mono SemiBold" fontStyle="0" fontSize="" />
+            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="F55D55" bgColor="1D7184" fontName="Roboto Mono SemiBold" fontStyle="0" fontSize="" />
+            <WordsStyle name="DEFVAL" styleID="4" fgColor="FBC69A" bgColor="1D7184" fontName="Roboto Mono Medium" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="inno" desc="InnoSetup" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="F6F1ED" bgColor="1D7184" fontName="" fontStyle="0" fontSize="" />
@@ -775,9 +780,9 @@ Notepad++ Custom Style
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="B13F38" fgColor="C04080" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="C1CBD2" bgColor="6699CC" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="445257" bgColor="112435" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Line number margin" styleID="33" fgColor="43838F" bgColor="344652" fontName="" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Line number margin" styleID="33" fgColor="3C8294" bgColor="314652" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold" styleID="0" fgColor="24A3AD" bgColor="27343F" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Fold margin" styleID="0" fgColor="344652" bgColor="344652" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Fold margin" styleID="0" fgColor="236576" bgColor="2B5161" fontSize="" fontStyle="0" />
         <WidgetStyle name="White space symbol" styleID="0" fgColor="0E4657" bgColor="3476A3" fontSize="" fontStyle="0" />
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="56676D" fgColor="222222" fontStyle="0" />
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="E43C00" fgColor="F6F1ED" fontSize="" fontStyle="1" />
