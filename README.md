@@ -1,21 +1,24 @@
+:green_circle: *The theme will be slightly brighter soon.*
+
 # Tangara Theme for Notepad++
 
-![Tangara theme for Notepad++](https://i.ibb.co/Lnj594d/github-Tangara-theme-for-NPP.png)
+![Tangara theme for Notepad++](https://i.ibb.co/Pmn5WC9/github-Tangara-theme-for-NPP.png)
 
 # Description
+
 Unreasonably thoroughly picked colors to create the neatest color arrangement I can think of.
 Designed for the sake of colors rather than for optimal ergonomics while keeping a fair degree of usability.
 
-Unfortunately this particular background color is different from screen to screen, but should more or less
-work on 6000 K screen color temperature (less is greener, more is bluer).
+The background color is a bit different for each screen, but 6000 K screen color temperature (slightly warmer
+than neutral) should be roughly as intended.
 
 The name refers to the male swallow tanager (fecsketangara in Hungarian), although the theme is actually even
 more similar to the blue-brested kingfisher.
 
 ### Supported languages
 
-Assembly, Bash, Batch, C, C++, C#, CSS, HTML, INI, Java, JavaScript, Lua, Markdown\*, PHP, Python, Ruby, SQL, XML, YAML
-Everything else is usable but not arranged.
+Assembly, Bash, Batch, C, C++, C#, CSS, HTML, INI, Java, JavaScript, Lua, Markdown\*, PHP, Python, Ruby, SQL, XML, YAML  
+Everything else is usable but not arranged.  
 If the theme gets fairly popular, I'll optimize more languages. (Especially on request of course.)
 
 > \* For Markdown, read the *Setting up Markdown* section at the bottom of this page.
@@ -47,21 +50,21 @@ To use more font weights, the exact font face names have to be specified in the 
 ## Whether to use font overrides
 
 Font overrides unbold all text thinner than full bold, which kinda ruins the look of the theme. So **don't use font overrides**, you should stick to the theme font.
-Only exception is Markdown language, where I find it useful to replace the bulky monospace font to a more readable sans serif.
+Only exception is Markdown language, where I prefer replacing the bulky monospace font to a more readable sans serif.
 **Font override can be used on Markdown.**
 
 ## Turn off DirectWrite
 
-Make sure DirectWrite is turned off. (*Settings* -> *Misc* -> [ ] *use DirectWrite*)
+Make sure DirectWrite is turned off. (*Settings* -> *Misc* -> [  ] *use DirectWrite*)
 ![direct write off](https://i.ibb.co/8MhC3P9/github-Direct-Write-off.png)
 
-Primarily because DirectWrite doesn't let the theme use the above mentioned hardcoded font faces for some weird reason. Hopefully this will be fixed in a future version of Notepad++, then I'll probably publish a version of this theme with *Fira Code* font.
+Primarily because DirectWrite doesn't let the theme use the above mentioned hardcoded font faces for some weird reason. Hopefully this will be fixed in a future version of Notepad++, then I'll probably publish a version of this theme with *Fira Code* font (which has ligatures, like →, ⇒, ≥, etc.).
 
 # Setting up Markdown
 
 In the downloaded zip there is a Markdown directory. Copy `markdown.tangara.udl.xml` to `%AppData%\Notepad++\userDefineLangs`
 
-By default, if you open a Markdown file in NPP, the colors may be messed up, because another Markdown UDL is arbitrarily used instead of `Markdown (Tangara)`, and you have to select the correct UDL in the *Language* menu. As this practice is intolerable, it's worth putting a little work into avoiding it:
+By default, if you open a Markdown file in NPP, the colors may be messed up, because another Markdown UDL is arbitrarily used instead of `Markdown (Tangara)`, and you have to select the correct UDL in the *Language* menu every time you open a .md file. As this practice is intolerable, it's worth putting a little work into avoiding it:
 
 Open **all** Markdown UDLs in the `userDefineLangs` directory for editing, **except** `markdown.tangara.udl.xml`. There you can see the following code:
 
