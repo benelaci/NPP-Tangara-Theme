@@ -787,9 +787,9 @@ Notepad++ Custom Style
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="B63E3C" fgColor="C04080" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="C1CBD2" bgColor="6699CC" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="445257" bgColor="112435" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Line number margin" styleID="33" fgColor="3A8797" bgColor="2A4D5B" fontName="" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Line number margin" styleID="33" fgColor="3A8797" bgColor="274D5C" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold" styleID="0" fgColor="1EAAB2" bgColor="273642" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Fold margin" styleID="0" fgColor="0A7280" bgColor="2F5669" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Fold margin" styleID="0" fgColor="0C7181" bgColor="2D566A" fontSize="" fontStyle="0" />
         <WidgetStyle name="White space symbol" styleID="0" fgColor="0F4959" bgColor="3476A3" fontSize="" fontStyle="0" />
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="56676D" fgColor="222222" fontStyle="0" />
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="EC3E00" fgColor="F1F1EE" fontSize="" fontStyle="1" />
