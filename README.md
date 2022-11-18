@@ -1,16 +1,14 @@
-:green_circle: *The theme will be slightly brighter soon.*
-
 # Tangara Theme for Notepad++
 
-![Tangara theme for Notepad++](https://i.ibb.co/Pmn5WC9/github-Tangara-theme-for-NPP.png)
+![Tangara theme (medium dark) for Notepad++](https://i.ibb.co/BwqR2VW/github-Tangara-theme-for-NPP.png)
 
 # Description
 
 Unreasonably thoroughly picked colors to create the neatest color arrangement I can think of.
 Designed for the sake of colors rather than for optimal ergonomics while keeping a fair degree of usability.
 
-The background color is a bit different for each screen, but 6000 K screen color temperature (slightly warmer
-than neutral) should be roughly as intended.
+The background color is a bit different for each screen, but on a slightly warmer than neutral screen color
+temperature it should be roughly as intended.
 
 The name refers to the male swallow tanager (fecsketangara in Hungarian), although the theme is actually even
 more similar to the blue-brested kingfisher.
@@ -19,7 +17,7 @@ more similar to the blue-brested kingfisher.
 
 Assembly, Bash, Batch, C, C++, C#, CSS, HTML, INI, Java, JavaScript, Lua, Markdown\*, PHP, Python, Ruby, SQL, XML, YAML  
 Everything else is usable but not arranged.  
-If the theme gets fairly popular, I'll optimize more languages. (Especially on request of course.)
+If the theme gets somewhat popular, I'll optimize more languages. (Especially on request of course.)
 
 > \* For Markdown, read the *Setting up Markdown* section at the bottom of this page.
 
@@ -28,8 +26,10 @@ If the theme gets fairly popular, I'll optimize more languages. (Especially on r
 1. **Click** [`HERE`](https://github.com/benelaci/NPP-Tangara-Theme/archive/refs/heads/main.zip) to download all files in zip.
 2. Go to **%APPDATA%\Notepad++**.
 3. Open **themes** folder, or create a new folder named **themes** if it doesn't exists.
-4. Copy the **.xml** file in the downloaded zip into the folder.
-5. Install all font files in the *fonts* folder using one of the following methods:
+4. Install the xml in any of the following ways:
+   - Copy the **.xml** file in the downloaded zip into the folder. Or
+	- Import it to Notepad++ by going to *Menu -> Settings -> Import -> Import Style theme(s)*.
+5. Install all font files in the *fonts* folder in any of the following ways:
    - open **Font Settings** (Press `Win` key, and start typing *"font"*) and drag all 4 font files at once.
    - launch the font files one by one, and click **Install**.
 6. Restart Notepad++.
@@ -58,7 +58,7 @@ Only exception is Markdown language, where I prefer replacing the bulky monospac
 Make sure DirectWrite is turned off. (*Settings* -> *Misc* -> [  ] *use DirectWrite*)
 ![direct write off](https://i.ibb.co/8MhC3P9/github-Direct-Write-off.png)
 
-Primarily because DirectWrite doesn't let the theme use the above mentioned hardcoded font faces for some weird reason. Hopefully this will be fixed in a future version of Notepad++, then I'll probably publish a version of this theme with *Fira Code* font (which has ligatures, like →, ⇒, ≥, etc.).
+Primarily because DirectWrite doesn't let the theme use the above mentioned hardcoded font faces for some weird reason. Hopefully this will be fixed in a future version of Notepad++, then I'll probably publish a version of this theme with *Fira Code* font, which has ligatures, like →, ⇒, ≥, etc.
 
 # Setting up Markdown
 
