@@ -76,3 +76,7 @@ Open **all** Markdown UDLs in the `userDefineLangs` directory for editing, **exc
 Replace `ext="md markdown"` to `ext=""` in all opened documents.
 
 This way the Tangara UDL will be the only relevant one to be associated with Markdown.
+
+# Author / contact
+
+László Bene · benelaszlo![|](https://i.ibb.co/7WLcqb3/ch1.gif)tutanota![|](https://i.ibb.co/R45zkLX/ch2.gif)com
