@@ -1,6 +1,6 @@
 # Tangara Theme for Notepad++
 
-![Tangara theme (medium dark) for Notepad++](https://i.imgur.com/9YDN3lz.png)
+![Tangara theme (medium dark) for Notepad++](https://i.ibb.co/PcRfpMs/github-Tangara-theme-for-NPP.png)
 
 # Description
 
@@ -10,7 +10,7 @@ Designed for the sake of colors rather than for optimal ergonomics while keeping
 The background color is a bit different for each screen, but on a slightly warmer than neutral screen color
 temperature it should be roughly as intended.
 
-The name refers to the male swallow tanager (fecsketangara in Hungarian), although the theme is actually even
+The name refers to the male swallow tanager (*fecsketangara* in Hungarian), although the theme is actually even
 more similar to the blue-brested kingfisher.
 
 ### Supported languages
@@ -79,4 +79,4 @@ This way the Tangara UDL will be the only relevant one to be associated with Mar
 
 # Author / contact
 
-László Bene · benelaszlo![|](https://i.ibb.co/7WLcqb3/ch1.gif)tutanota![|](https://i.ibb.co/R45zkLX/ch2.gif)com
+Laci Bene · laci.bene![|](https://i.ibb.co/7WLcqb3/ch1.gif)mail![|](https://i.ibb.co/R45zkLX/ch2.gif)ee
