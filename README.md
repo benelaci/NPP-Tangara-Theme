@@ -1,6 +1,6 @@
 # Tangara Theme for Notepad++
 
-![Tangara theme (medium dark) for Notepad++](https://i.ibb.co/MB7G0Gy/github-Tangara-theme-for-NPP.png)
+![Tangara theme (medium dark) for Notepad++](https://i.ibb.co/6J8s6Hk/github-Tangara-theme-for-NPP.png)
 
 # Description
 
@@ -13,7 +13,7 @@ temperature it should be roughly as intended.
 The name refers to the male swallow tanager (*fecsketangara* in Hungarian), although the theme is actually even
 more similar to the blue-brested kingfisher.
 
-### Supported languages
+# Supported languages
 
 Assembly, Bash, Batch, C, C++, C#, CSS, HTML, INI, Java, JavaScript, Lua, Markdown\*, PHP, Python, Ruby, SQL, XML, YAML  
 Everything else is usable but not arranged.  
