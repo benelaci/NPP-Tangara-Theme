@@ -788,7 +788,7 @@ Notepad++ Custom Style
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="C1CBD2" bgColor="6699CC"></WidgetStyle>
         <WidgetStyle name="Edge colour" styleID="0" fgColor="445257" bgColor="112435"></WidgetStyle>
         <WidgetStyle name="Line number margin" styleID="33" fgColor="3A8797" bgColor="274D5C"></WidgetStyle>
-        <WidgetStyle name="Fold" styleID="0" fgColor="1EAAB2" bgColor="273642"></WidgetStyle>
+        <WidgetStyle name="Fold" styleID="0" fgColor="3198A3" bgColor="273642"></WidgetStyle>
         <WidgetStyle name="Fold active" styleID="0" fgColor="FF6062"></WidgetStyle>
         <WidgetStyle name="Fold margin" styleID="0" fgColor="0C7181" bgColor="2D566A"></WidgetStyle>
         <WidgetStyle name="White space symbol" styleID="0" fgColor="0F4959" bgColor="3476A3"></WidgetStyle>

@@ -1,6 +1,6 @@
 # Tangara Theme for Notepad++
 
-![Tangara theme (medium dark) for Notepad++](https://i.ibb.co/6J8s6Hk/github-Tangara-theme-for-NPP.png)
+![Tangara theme (medium dark) for Notepad++](https://i.ibb.co/vZ1QspX/github-Tangara-theme-for-NPP.png)
 
 # Description
 
