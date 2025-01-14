@@ -785,14 +785,14 @@ Notepad++ Custom Style
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FB0000" bgColor="12788B"></WidgetStyle>
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="605F5A" fgColor="0080C0"></WidgetStyle>
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="B63E3C" fgColor="C04080"></WidgetStyle>
-        <WidgetStyle name="Caret colour" styleID="2069" fgColor="C1CBD2" bgColor="6699CC"></WidgetStyle>
+        <WidgetStyle name="Caret colour" styleID="2069" fgColor="cadbdb" bgColor="6699CC"></WidgetStyle>
         <WidgetStyle name="Edge colour" styleID="0" fgColor="445257" bgColor="112435"></WidgetStyle>
         <WidgetStyle name="Line number margin" styleID="33" fgColor="3A8797" bgColor="274D5C"></WidgetStyle>
         <WidgetStyle name="Fold" styleID="0" fgColor="3198A3" bgColor="273642"></WidgetStyle>
         <WidgetStyle name="Fold active" styleID="0" fgColor="FF6062"></WidgetStyle>
         <WidgetStyle name="Fold margin" styleID="0" fgColor="0C7181" bgColor="2D566A"></WidgetStyle>
         <WidgetStyle name="White space symbol" styleID="0" fgColor="0F4959" bgColor="3476A3"></WidgetStyle>
-        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="56676D" fgColor="222222"></WidgetStyle>
+        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="68C0CA" fgColor="222222"></WidgetStyle>
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="EC3E00" fgColor="F1F1EE" fontStyle="1"></WidgetStyle>
         <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00659B" fgColor="F1F1EE" fontSize="10"></WidgetStyle>
         <WidgetStyle name="Mark Style 2" styleID="24" bgColor="00880B" fgColor="F1F1EE" fontSize="10"></WidgetStyle>
@@ -801,18 +801,19 @@ Notepad++ Custom Style
         <WidgetStyle name="Mark Style 5" styleID="21" bgColor="44116F" fgColor="F1F1EE" fontSize="10"></WidgetStyle>
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFFF80"></WidgetStyle>
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="00CAF2" fgColor="F1F1EE"></WidgetStyle>
-        <WidgetStyle name="Tags attribute" styleID="26" bgColor="00E1FF" fgColor="FFCAB0"></WidgetStyle>
+        <WidgetStyle name="Tags attribute" styleID="26" bgColor="8D8C85" fgColor="FFCAB0"></WidgetStyle>
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="FF6062" bgColor="8000FF"></WidgetStyle>
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="008000"></WidgetStyle>
         <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" bgColor="0080FF"></WidgetStyle>
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0"></WidgetStyle>
         <WidgetStyle name="EOL custom color" styleID="0" fgColor="DADA5A"></WidgetStyle>
         <WidgetStyle name="Multi-selected text color" styleID="0" bgColor="B63E3C"></WidgetStyle>
-        <WidgetStyle name="Multi-edit carets color" styleID="0" fgColor="C1CBD2"></WidgetStyle>
-        <WidgetStyle name="Change History modified" styleID="0" fgColor="FF8000" bgColor="FF8000"></WidgetStyle>
-        <WidgetStyle name="Change History revert modified" styleID="0" fgColor="A0C000" bgColor="A0C000"></WidgetStyle>
-        <WidgetStyle name="Change History revert origin" styleID="0" fgColor="40A0BF" bgColor="40A0BF"></WidgetStyle>
-        <WidgetStyle name="Change History saved" styleID="0" fgColor="00A000" bgColor="00A000"></WidgetStyle>
+        <WidgetStyle name="Multi-edit carets color" styleID="0" fgColor="cadbdb"></WidgetStyle>
+        <WidgetStyle name="Change History margin" styleID="0" bgColor="274D5C"></WidgetStyle>
+        <WidgetStyle name="Change History modified" styleID="0" fgColor="E36945" bgColor="E36945"></WidgetStyle>
+        <WidgetStyle name="Change History revert modified" styleID="0" fgColor="A0B82C" bgColor="A0B82C"></WidgetStyle>
+        <WidgetStyle name="Change History revert origin" styleID="0" fgColor="42ACB8" bgColor="42ACB8"></WidgetStyle>
+        <WidgetStyle name="Change History saved" styleID="0" fgColor="53990C" bgColor="53990C"></WidgetStyle>
         <WidgetStyle name="Non-printing characters custom color" styleID="0" fgColor="0F4959"></WidgetStyle>
     </GlobalStyles>
 </NotepadPlus>
