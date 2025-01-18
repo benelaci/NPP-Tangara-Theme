@@ -5,7 +5,7 @@ Notepad++ Custom Style
   Style name:   Tangara (Font-free version)
   Author:       Laci Bene
   Date:         2022-10-25 (Last update: 2025-01-18)
-  License:      MIT - https://choosealicense.com/licenses/mit/
+  License:      GPL-3.0 - https://choosealicense.com/licenses/gpl-3.0/
 
   -----------------------------------------------------------------------------
   ATTENTION!    This is a castrated version of the "Tangara (Original)" theme.
@@ -809,12 +809,12 @@ Notepad++ Custom Style
         <WidgetStyle name="Fold margin" styleID="0" fgColor="0C7181" bgColor="2D566A"></WidgetStyle>
         <WidgetStyle name="White space symbol" styleID="0" fgColor="0F4959" bgColor="3476A3"></WidgetStyle>
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="68C0CA" fgColor="222222"></WidgetStyle>
-        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="EC3E00" fgColor="F1F1EE" fontStyle="1"></WidgetStyle>
-        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00659B" fgColor="F1F1EE" fontSize="10"></WidgetStyle>
-        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="00880B" fgColor="F1F1EE" fontSize="10"></WidgetStyle>
-        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="A6AA00" fgColor="F1F1EE"></WidgetStyle>
-        <WidgetStyle name="Mark Style 4" styleID="22" bgColor="8A0B0B" fgColor="F1F1EE"></WidgetStyle>
-        <WidgetStyle name="Mark Style 5" styleID="21" bgColor="44116F" fgColor="F1F1EE" fontSize="10"></WidgetStyle>
+        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="ff1b3b" fgColor="F1F1EE" fontStyle="1"></WidgetStyle>
+        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00FFFF" fgColor="F1F1EE" fontSize="10"></WidgetStyle>
+        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="FF3000" fgColor="F1F1EE" fontSize="10"></WidgetStyle>
+        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="FFB000" fgColor="F1F1EE"></WidgetStyle>
+        <WidgetStyle name="Mark Style 4" styleID="22" bgColor="F050F0" fgColor="F1F1EE"></WidgetStyle>
+        <WidgetStyle name="Mark Style 5" styleID="21" bgColor="A0C000" fgColor="F1F1EE" fontSize="10"></WidgetStyle>
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFFF80"></WidgetStyle>
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="00CAF2" fgColor="F1F1EE"></WidgetStyle>
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="8D8C85" fgColor="FFCAB0"></WidgetStyle>
